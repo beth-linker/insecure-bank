@@ -1,10 +1,11 @@
 name: Upload SARIF
 
 on:
-  push:
+  pull_request:
+    types:
+      - created
     branches:
       - main
-
 jobs:
   build:
     runs-on: ubuntu-latest
