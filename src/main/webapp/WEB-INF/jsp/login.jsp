@@ -1,6 +1,6 @@
 <%@ include file="/WEB-INF/jsp/template/tags.jsp"%>
 <%@ include file="/WEB-INF/jsp/template/header.jsp"%>
-
+<!- I am a comment -->
 <body class="middle-content page-login">
 	<div class="container-fluid">
 		<div class="row">
