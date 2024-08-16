@@ -16,7 +16,7 @@
             3
           ],
           "sourceEndLines": [
-            27
+            28
           ],
           "matchedStartLines": [
             21
@@ -40,13 +40,38 @@
             3
           ],
           "sourceEndLines": [
-            27
+            28
           ],
           "matchedStartLines": [
             3
           ],
           "matchedEndLines": [
             24
+          ]
+        }
+      },
+      {
+        "projectName": "Chambua",
+        "releaseVersion": "master-20131002",
+        "licenseDefinition": {
+          "name": "GNU Affero General Public License v3.0",
+          "spdxId": "AGPL-3.0",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU Affero General Public License v3.0"
+        },
+        "matchedFilePath": "/ushahidi-Chambua-d0295b8/src/test/java/com/ushahidi/chambua/web/controller/TagsControllerTest.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            28
+          ],
+          "matchedStartLines": [
+            21
+          ],
+          "matchedEndLines": [
+            45
           ]
         }
       },
@@ -76,31 +101,6 @@
         }
       },
       {
-        "projectName": "Chambua",
-        "releaseVersion": "master-20131002",
-        "licenseDefinition": {
-          "name": "GNU Affero General Public License v3.0",
-          "spdxId": "AGPL-3.0",
-          "ownership": "OPEN_SOURCE",
-          "licenseDisplayName": "GNU Affero General Public License v3.0"
-        },
-        "matchedFilePath": "/ushahidi-Chambua-d0295b8/src/test/java/com/ushahidi/chambua/web/controller/TagsControllerTest.java",
-        "regions": {
-          "sourceStartLines": [
-            3
-          ],
-          "sourceEndLines": [
-            27
-          ],
-          "matchedStartLines": [
-            21
-          ],
-          "matchedEndLines": [
-            45
-          ]
-        }
-      },
-      {
         "projectName": "spring-framework-issues",
         "releaseVersion": "20170719-snapshot-58373764",
         "licenseDefinition": {
@@ -114,13 +114,37 @@
             3
           ],
           "sourceEndLines": [
-            27
+            28
           ],
           "matchedStartLines": [
             3
           ],
           "matchedEndLines": [
             20
+          ]
+        }
+      },
+      {
+        "projectName": "OPUS-College",
+        "releaseVersion": "20170308-snapshot-a0bb2480",
+        "licenseDefinition": {
+          "name": "Unknown License",
+          "ownership": "UNKNOWN",
+          "licenseDisplayName": "Unknown License"
+        },
+        "matchedFilePath": "/college/src/test/java/org/uci/opus/college/web/flow/StudentPersonalEditControllerTest.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            28
+          ],
+          "matchedStartLines": [
+            3
+          ],
+          "matchedEndLines": [
+            24
           ]
         }
       }
@@ -138,35 +162,13 @@
             3
           ],
           "sourceEndLines": [
-            27
+            28
           ],
           "matchedStartLines": [
             20
           ],
           "matchedEndLines": [
             54
-          ]
-        }
-      },
-      {
-        "projectName": "naver/pinpoint",
-        "releaseVersion": "1.5.2",
-        "licenseDefinition": {
-          "licenseDisplayName": "(libxml2 License AND GNU General Public License v2.0 or later AND Apache License 2.0 AND MIT License AND Creative Commons Public Domain Dedication and Certification AND Public Domain)"
-        },
-        "matchedFilePath": "/pinpoint-4648b0930a1880efa3499ef1668f8da21ecf79b4/web/src/test/java/com/navercorp/pinpoint/web/controller/ConfigControllerTest.java",
-        "regions": {
-          "sourceStartLines": [
-            3
-          ],
-          "sourceEndLines": [
-            27
-          ],
-          "matchedStartLines": [
-            19
-          ],
-          "matchedEndLines": [
-            49
           ]
         }
       },
@@ -182,13 +184,35 @@
             3
           ],
           "sourceEndLines": [
-            27
+            28
           ],
           "matchedStartLines": [
             20
           ],
           "matchedEndLines": [
             48
+          ]
+        }
+      },
+      {
+        "projectName": "naver/pinpoint",
+        "releaseVersion": "1.5.2",
+        "licenseDefinition": {
+          "licenseDisplayName": "(libxml2 License AND GNU General Public License v2.0 or later AND Apache License 2.0 AND MIT License AND Creative Commons Public Domain Dedication and Certification AND Public Domain)"
+        },
+        "matchedFilePath": "/pinpoint-4648b0930a1880efa3499ef1668f8da21ecf79b4/web/src/test/java/com/navercorp/pinpoint/web/controller/ConfigControllerTest.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            28
+          ],
+          "matchedStartLines": [
+            19
+          ],
+          "matchedEndLines": [
+            49
           ]
         }
       },
@@ -226,7 +250,7 @@
             3
           ],
           "sourceEndLines": [
-            27
+            28
           ],
           "matchedStartLines": [
             19
@@ -248,13 +272,38 @@
             3
           ],
           "sourceEndLines": [
-            27
+            28
           ],
           "matchedStartLines": [
             21
           ],
           "matchedEndLines": [
             45
+          ]
+        }
+      },
+      {
+        "projectName": "ARSnova",
+        "releaseVersion": "v2.2.0",
+        "licenseDefinition": {
+          "name": "GNU General Public License v3.0 or later",
+          "spdxId": "GPL-3.0-or-later",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "GNU General Public License v3.0 or later"
+        },
+        "matchedFilePath": "/arsnova-backend-2acc1ddf77311a1c51472aa1be26733cb79defb7/src/test/java/de/thm/arsnova/controller/SessionControllerTest.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            28
+          ],
+          "matchedStartLines": [
+            3
+          ],
+          "matchedEndLines": [
+            34
           ]
         }
       }
@@ -300,7 +349,7 @@
             3
           ],
           "sourceEndLines": [
-            27
+            28
           ],
           "matchedStartLines": [
             4
@@ -327,38 +376,13 @@
             3
           ],
           "sourceEndLines": [
-            27
+            28
           ],
           "matchedStartLines": [
             4
           ],
           "matchedEndLines": [
             31
-          ]
-        }
-      },
-      {
-        "projectName": "eugenp/tutorials",
-        "releaseVersion": "20180721-snapshot-ecb14dd8",
-        "licenseDefinition": {
-          "name": "MIT License",
-          "spdxId": "MIT",
-          "ownership": "OPEN_SOURCE",
-          "licenseDisplayName": "MIT License"
-        },
-        "matchedFilePath": "/tutorials-ecb14dd83486138717305d5d2b04732ae79bb959/spring-thymeleaf/src/test/java/com/baeldung/thymeleaf/controller/ExpressionUtilityObjectsControllerIntegrationTest.java",
-        "regions": {
-          "sourceStartLines": [
-            3
-          ],
-          "sourceEndLines": [
-            27
-          ],
-          "matchedStartLines": [
-            5
-          ],
-          "matchedEndLines": [
-            30
           ]
         }
       },
@@ -377,7 +401,32 @@
             3
           ],
           "sourceEndLines": [
-            27
+            28
+          ],
+          "matchedStartLines": [
+            5
+          ],
+          "matchedEndLines": [
+            30
+          ]
+        }
+      },
+      {
+        "projectName": "eugenp/tutorials",
+        "releaseVersion": "20180721-snapshot-ecb14dd8",
+        "licenseDefinition": {
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "ownership": "OPEN_SOURCE",
+          "licenseDisplayName": "MIT License"
+        },
+        "matchedFilePath": "/tutorials-ecb14dd83486138717305d5d2b04732ae79bb959/spring-thymeleaf/src/test/java/com/baeldung/thymeleaf/controller/ExpressionUtilityObjectsControllerIntegrationTest.java",
+        "regions": {
+          "sourceStartLines": [
+            3
+          ],
+          "sourceEndLines": [
+            28
           ],
           "matchedStartLines": [
             5
@@ -402,7 +451,7 @@
             3
           ],
           "sourceEndLines": [
-            27
+            28
           ],
           "matchedStartLines": [
             3
@@ -427,7 +476,7 @@
             3
           ],
           "sourceEndLines": [
-            27
+            28
           ],
           "matchedStartLines": [
             20
@@ -452,7 +501,7 @@
             3
           ],
           "sourceEndLines": [
-            27
+            28
           ],
           "matchedStartLines": [
             5
@@ -477,7 +526,7 @@
             3
           ],
           "sourceEndLines": [
-            27
+            28
           ],
           "matchedStartLines": [
             16
@@ -502,7 +551,7 @@
             3
           ],
           "sourceEndLines": [
-            27
+            28
           ],
           "matchedStartLines": [
             17
@@ -527,7 +576,7 @@
             3
           ],
           "sourceEndLines": [
-            27
+            28
           ],
           "matchedStartLines": [
             17
@@ -552,63 +601,13 @@
             3
           ],
           "sourceEndLines": [
-            27
+            28
           ],
           "matchedStartLines": [
             17
           ],
           "matchedEndLines": [
             40
-          ]
-        }
-      },
-      {
-        "projectName": "Spring Security",
-        "releaseVersion": "4.2.0.RC1",
-        "licenseDefinition": {
-          "name": "Apache License 2.0",
-          "spdxId": "Apache-2.0",
-          "ownership": "OPEN_SOURCE",
-          "licenseDisplayName": "Apache License 2.0"
-        },
-        "matchedFilePath": "/spring-security-97b4cb0b7385d6b27fdb71ad1fbcf66a4e35175b/config/src/test/java/org/springframework/security/config/annotation/web/configuration/AuthenticationPrincipalArgumentResolverTests.java",
-        "regions": {
-          "sourceStartLines": [
-            3
-          ],
-          "sourceEndLines": [
-            20
-          ],
-          "matchedStartLines": [
-            18
-          ],
-          "matchedEndLines": [
-            38
-          ]
-        }
-      },
-      {
-        "projectName": "naver/pinpoint",
-        "releaseVersion": "1.8.1",
-        "licenseDefinition": {
-          "name": "Apache License 2.0",
-          "spdxId": "Apache-2.0",
-          "ownership": "OPEN_SOURCE",
-          "licenseDisplayName": "Apache License 2.0"
-        },
-        "matchedFilePath": "/pinpoint-2be384110b4da3c59bd3d568ed1d41ce61c385db/web/src/test/java/com/navercorp/pinpoint/web/controller/UserControllerTest.java",
-        "regions": {
-          "sourceStartLines": [
-            3
-          ],
-          "sourceEndLines": [
-            27
-          ],
-          "matchedStartLines": [
-            20
-          ],
-          "matchedEndLines": [
-            48
           ]
         }
       }
