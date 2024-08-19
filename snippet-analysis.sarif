@@ -26,7 +26,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 29
                 }
               }
             }
@@ -47,7 +47,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 29
                 }
               }
             }
@@ -68,7 +68,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 29
                 }
               }
             }
@@ -110,7 +110,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 29
                 }
               }
             }
@@ -131,7 +131,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 29
                 }
               }
             }
@@ -152,7 +152,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 29
                 }
               }
             }
@@ -173,7 +173,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 29
                 }
               }
             }
@@ -194,7 +194,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 29
                 }
               }
             }
@@ -236,7 +236,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 29
                 }
               }
             }
@@ -257,28 +257,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "GPL-3.0-or-later",
-          "level": "warning",
-          "message": {
-            "text": "License match found: GNU General Public License v3.0 or later"
-          },
-          "locations": [
-            {
-              "physicalLocation": {
-                "artifactLocation": {
-                  "uri": ".snippet-licenses/src_test_java_org_hdivsamples_controllers_DashboardControllerTest.java-snippet-analysis.json",
-                  "uriBaseId": "%SRCROOT%"
-                },
-                "region": {
-                  "startLine": 3,
-                  "endLine": 28
+                  "endLine": 29
                 }
               }
             }
@@ -320,7 +299,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 29
                 }
               }
             }
@@ -341,7 +320,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 29
                 }
               }
             }
@@ -362,7 +341,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 29
                 }
               }
             }
@@ -383,7 +362,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 29
                 }
               }
             }
@@ -404,7 +383,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 29
                 }
               }
             }
@@ -425,7 +404,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 29
                 }
               }
             }
@@ -446,7 +425,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 29
                 }
               }
             }
@@ -467,7 +446,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 29
                 }
               }
             }
@@ -488,7 +467,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 29
                 }
               }
             }
@@ -509,7 +488,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 29
                 }
               }
             }
@@ -530,7 +509,7 @@
                 },
                 "region": {
                   "startLine": 3,
-                  "endLine": 28
+                  "endLine": 29
                 }
               }
             }
